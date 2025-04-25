@@ -22,9 +22,6 @@ ASP.NET Core Web API for searching parts inventory with pagination support.
 ### POST `/api/search`
 Search parts with pagination
 
-**Request:**
-```http
-POST /api/search?CurrentPage=1&ItemsPerPage=10
-Content-Type: multipart/form-data
+
 
 
